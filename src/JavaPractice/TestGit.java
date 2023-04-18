@@ -10,4 +10,9 @@ public class TestGit {
         System.out.println("Testing local 01 branch in git");
 
     }
+    
+    public void dev01(int i,int j){
+        int k = i+j;
+        System.out.printLn(k);
+    }
 }
