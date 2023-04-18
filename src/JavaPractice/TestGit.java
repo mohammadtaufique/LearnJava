@@ -8,6 +8,8 @@ public class TestGit {
         System.out.println("Testing local branch in git");
 
         System.out.println("Testing local 01 branch in git");
+        
+         System.out.println("Testing fetch in git");
 
     }
 }
